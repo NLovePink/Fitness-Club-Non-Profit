@@ -1,4 +1,4 @@
-# CIS 102W (Web Design for Non Profit Organization) - Fitness Club Non Profit
+# Fitness Club Non Profit
 
 _Individual semester-long project for CIS 102W - Web Design for Non Profit Organization where I had to create a fitness website based off our class textbook, Responsive Web Design with HTML5 and CSS 9th Edition by Jessica Minnick._
 
